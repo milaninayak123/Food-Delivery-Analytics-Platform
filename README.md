@@ -98,13 +98,13 @@ The Power BI dashboard provides insights into:
 # Project Screenshots
 
 ## Fabric Workspace
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/7afe76a1-d0a3-4b17-909e-62d0573d9b5b" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/be29ad10-d612-4051-bec2-fca07a638a9a" />
 
 ## Lakehouse
-<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/ddbe03d1-0282-436d-9d95-c46c926bbef7" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/11424927-38a0-4337-ad7a-1b8f9fb5ddf2" />
 
 ## Data Warehouse Model
-<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/7a77ca21-6443-4fae-8fb5-0bb93c5149d4" />
+<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/12162381-bb29-40c3-8803-ea38f7d2ad18" />
 
 ## Semantic Model
 <img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/c7340cc6-776b-4ac9-be2a-906c746bf83a" />
