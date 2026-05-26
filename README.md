@@ -104,7 +104,7 @@ The Power BI dashboard provides insights into:
 <img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/c7340cc6-776b-4ac9-be2a-906c746bf83a" />
 
 ## Power BI Dashboard
-<img width="1367" height="728" alt="image" src="https://github.com/user-attachments/assets/1f1b2acb-6762-4890-87fc-d4a5e2f0b780" />
+<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/a96df8d2-d619-4c44-8783-44402cefd703" />
 
 ---
 
